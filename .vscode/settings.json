@@ -34,18 +34,7 @@
         "**/.svn": true,
         "**/.hg": true,
         "**/CVS": true,
-        "**/.DS_Store": true,
-        ".vscode/": true,
-        ".gitignore": true,
-        ".npmrc": true,
-        "package.json": true,
-        "pnpm-lock.yaml": true,
-        "README.md": true,
-        "svelte.config.js": true,
-        "tsconfig.json": true,
-        "vite.config.ts": true,
-        ".svelte-kit/": true,
-        "node_modules/": true
+        "**/.DS_Store": true
     },
-    "hidefiles.selectedProfile": "Default"
+    "hidefiles.selectedProfile": "Show All Files"
 }
